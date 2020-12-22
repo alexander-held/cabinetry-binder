@@ -1,1 +1,0 @@
-cabinetry[contrib]==0.1.1
